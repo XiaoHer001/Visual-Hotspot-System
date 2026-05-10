@@ -58,6 +58,8 @@
 6.  回到 `Inspector` 面板，展开你创建的热区，可以在 `OnClick` 事件列表中绑定点击后需要执行的函数。
 7.  运行游戏，点击你定义的热区，观察绑定的事件是否被触发！
 
+请查看[演示视频](https://www.bilibili.com/video/BV1bLRfBUEhr/?vd_source=90c7d8485752ee5a35ccafa7923a69bf)
+
 ## 许可证 (License)
 
 本项目采用 [MIT License](LICENSE.md)。
