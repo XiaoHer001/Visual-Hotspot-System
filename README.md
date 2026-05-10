@@ -4,6 +4,8 @@
 
 为 Unity UGUI 设计的终极热区解决方案。无需编码，即可在任意 UI 图形上可视化地创建和管理交互区域。
 
+（一句话解释：能让你在一张图片上画出 N 个隐形按钮，且不会因为屏幕分辨率发生变化而导致偏移和错位）
+
 ---
 
 ## 简介 (Introduction)
@@ -57,8 +59,7 @@
     *   拖动矩形的**黄色中心手柄**可以整体移动该热区。
 6.  回到 `Inspector` 面板，展开你创建的热区，可以在 `OnClick` 事件列表中绑定点击后需要执行的函数。
 7.  运行游戏，点击你定义的热区，观察绑定的事件是否被触发！
-
-请查看[演示视频](https://www.bilibili.com/video/BV1bLRfBUEhr/?vd_source=90c7d8485752ee5a35ccafa7923a69bf)
+8.  请查看[演示视频](https://www.bilibili.com/video/BV1bLRfBUEhr/?vd_source=90c7d8485752ee5a35ccafa7923a69bf)
 
 ## 许可证 (License)
 
