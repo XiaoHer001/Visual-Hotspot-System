@@ -10,7 +10,7 @@
 
 `UGUI Visual Hotspot System` 是一个强大、直观的编辑器扩展工具，它彻底改变了在 `Unity UI` 中创建交互区域的方式。忘记繁琐的脚本和坐标计算吧！现在，设计师和开发者可以直接在 `Scene` 视图中“绘制”出点击区域，像操作普通 `GameObject` 一样轻松，并为每个区域无缝绑定自定义交互事件。它旨在极大提升开发效率，为复杂的 `UI` 交互提供一个优雅而高效的工作流。
 
-<img width="2560" height="1380" alt="示例" src="https://github.com/user-attachments/assets/ceb885ea-41a3-4eec-8966-a2d14476f8d4" />
+<img width="2559" height="1527" alt="示例" src="https://github.com/user-attachments/assets/3feb8252-28e5-4427-99a9-5efa37a2f190" />
 
 ## 核心特性 (Core Features)
 
